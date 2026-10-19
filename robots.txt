@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://chandini-narayana.github.io/lakme-lipstick-guide/sitemap.xml
